@@ -21,7 +21,7 @@ The following sources provide further information on The Hitchhiker's Guide to t
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of The Hitchhiker's Guide to the Galaxy listed in the Infocom Fact Sheet. It also holds the source files for versions 23/840809 and 25/840917.
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of The Hitchhiker's Guide to the Galaxy listed in the Infocom Fact Sheet. It also holds the source files for versions 58/851002 and 60/861002.
 
 | Release | Serial | Story File                         | Zarf Sources         | Historical Sources |
 | -------:|:------:|:----------------------------------:|:--------------------:|:------------------:|
