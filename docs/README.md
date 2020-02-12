@@ -1,10 +1,10 @@
-*This page is currently under construction. Last updated July 4, 2019 by Alex Proudfoot.*
+# The Hitchhiker's Guide to the Galaxy
 
-----
+## The Game
 
-The Hitchhiker's Guide to the Galaxy was Infocom's 14th IF game and was first released in 1984.
+The Hitchhiker's Guide to the Galaxy is a 1984 interactive fiction game written by Douglas Adams and Steve Meretzky and published by Infocom.
 
-Further information on The Hitchhiker's Guide to the Galaxy:
+The following sources provide further information on The Hitchhiker's Guide to the Galaxy:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(video_game))
 * [The Digital Antiquarian](https://www.filfre.net/2013/11/the-computerized-hitchhikers/)
@@ -13,21 +13,49 @@ Further information on The Hitchhiker's Guide to the Galaxy:
 * [IFWiki](http://www.ifwiki.org/index.php/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 * [The Infocom Cabinet: Hitchhiker's Guide to the Galaxy](https://archive.org/details/InfocomCabinetHitchhikersGuide)
 
-The following source material is available for importation. Release 60 was selected from the Zarf Sources.
+## Resources
 
-## Historical Releases
+* [The Hitchhiker's Guide to the Galaxy on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#hitchhiker)
+* [The Hitchhiker's Guide to the Galaxy on Historical Source (GitHub)](https://github.com/historicalsource/hitchhikersguide)
+* [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt)
 
-These contain the available source material.
+## Version History
 
-| Release | Serial | Story File         | Zarf Sources | Jason Scott Sources |
-| -------:|:------:|:------------------:|:------------:|:-------------------:|
-|      58 | 851002 |   [r58-s851002-z3] |    [r58-zip] |       [revision-58] |
-|      60 | 861002 |   [r60-s861002-z3] |    [r60-zip] |    [final-revision] |
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of The Hitchhiker's Guide to the Galaxy listed in the Infocom Fact Sheet. It also holds the source files for versions 23/840809 and 25/840917.
 
-[r58-s851002-z3]: https://eblong.com/infocom/gamefiles/hitchhiker-r58-s851002.z3
-[r58-zip]: https://eblong.com/infocom/sources/hitchhiker-r58.zip
-[revision-58]: https://github.com/historicalsource/hitchhikersguide/tree/c55088a7df0675d67e159eebc35410d41e445dbc
+| Release | Serial | Story File                         | Zarf Sources         | Historical Sources |
+| -------:|:------:|:----------------------------------:|:--------------------:|:------------------:|
+|     108 | 840809 | [hitchhiker-beta1-r108-s840809.z3] |                    - |                  - |
+|     119 | 840822 | [hitchhiker-beta2-r119-s840822.z3] |                    - |                  - |
+|      47 | 840914 |        [hitchhiker-r47-s840914.z3] |                    - |                  - |
+|      56 | 841221 |        [hitchhiker-r56-s841221.z3] |                    - |                  - |
+|      42 | 850323 |        [hitchhiker-r42-s850323.z3] |                    - |                  - |
+|      58 | 851002 |        [hitchhiker-r58-s851002.z3] | [hitchhiker-r58.zip] |      [revision 58] |
+|      59 | 851108 |        [hitchhiker-r59-s851108.z3] |                    - |                  - |
+|      60 | 861002 |        [hitchhiker-r60-s861002.z3] | [hitchhiker-r60.zip] |   [final revision] |
 
-[r60-s861002-z3]: https://eblong.com/infocom/gamefiles/hitchhiker-r60-s861002.z3
-[r60-zip]: https://eblong.com/infocom/sources/hitchhiker-r60.zip
-[final-revision]: https://github.com/historicalsource/hitchhikersguide/tree/d7fddb5ebf706e6b7ce2398169a4a987a8f8aeb2
+[hitchhiker-beta1-r108-s840809.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-beta1-r108-s840809.z3
+
+[hitchhiker-beta2-r119-s840822.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-beta2-r119-s840822.z3
+
+[hitchhiker-r47-s840914.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-r47-s840914.z3
+
+[hitchhiker-r56-s841221.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-r56-s841221.z3
+
+[hitchhiker-r42-s850323.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-r42-s850323.z3
+
+[hitchhiker-r58-s851002.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-r58-s851002.z3
+[hitchhiker-r58.zip]: https://eblong.com/infocom/sources/hitchhiker-r58.zip
+[revision 58]: https://github.com/historicalsource/hitchhikersguide/tree/c55088a7df0675d67e159eebc35410d41e445dbc
+
+[hitchhiker-r59-s851108.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-r59-s851108.z3
+
+[hitchhiker-r60-s861002.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-r60-s861002.z3
+[hitchhiker-r60.zip]: https://eblong.com/infocom/sources/hitchhiker-r60.zip
+[final revision]: https://github.com/historicalsource/hitchhikersguide/tree/d7fddb5ebf706e6b7ce2398169a4a987a8f8aeb2
+
+## Future Development
+
+Version 60/861002 has been selected as the starting point for future development.
+
+Compilation issues are recorded [here](https://github.com/the-infocom-files/hitchhiker/issues/2).
