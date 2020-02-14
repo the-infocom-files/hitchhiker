@@ -21,18 +21,16 @@ The following sources provide further information on The Hitchhiker's Guide to t
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of The Hitchhiker's Guide to the Galaxy listed in the Infocom Fact Sheet. It also holds the source files for versions 58/851002 and 60/861002.
-
-| Release | Serial | Story File                         | Zarf Sources         | Historical Sources |
-| -------:|:------:|:----------------------------------:|:--------------------:|:------------------:|
-|     108 | 840809 | [hitchhiker-beta1-r108-s840809.z3] |                    - |                  - |
-|     119 | 840822 | [hitchhiker-beta2-r119-s840822.z3] |                    - |                  - |
-|      47 | 840914 |        [hitchhiker-r47-s840914.z3] |                    - |                  - |
-|      56 | 841221 |        [hitchhiker-r56-s841221.z3] |                    - |                  - |
-|      42 | 850323 |        [hitchhiker-r42-s850323.z3] |                    - |                  - |
-|      58 | 851002 |        [hitchhiker-r58-s851002.z3] | [hitchhiker-r58.zip] |      [revision 58] |
-|      59 | 851108 |        [hitchhiker-r59-s851108.z3] |                    - |                  - |
-|      60 | 861002 |        [hitchhiker-r60-s861002.z3] | [hitchhiker-r60.zip] |   [final revision] |
+| Release | Serial | Type | Story File                         | Obsessive Sources    | Historical Sources |
+| -------:|:------:|:----:|:----------------------------------:|:--------------------:|:------------------:|
+|     108 | 840809 |  DEV | [hitchhiker-beta1-r108-s840809.z3] |                    - |                  - |
+|     119 | 840822 |  DEV | [hitchhiker-beta2-r119-s840822.z3] |                    - |                  - |
+|      47 | 840914 |  PUB |        [hitchhiker-r47-s840914.z3] |                    - |                  - |
+|      56 | 841221 |  PUB |        [hitchhiker-r56-s841221.z3] |                    - |                  - |
+|      42 | 850323 |  ??? |        [hitchhiker-r42-s850323.z3] |                    - |                  - |
+|      58 | 851002 |  PUB |        [hitchhiker-r58-s851002.z3] | [hitchhiker-r58.zip] |      [revision 58] |
+|      59 | 851108 |  PUB |        [hitchhiker-r59-s851108.z3] |                    - |                  - |
+|      60 | 861002 |  FIN |        [hitchhiker-r60-s861002.z3] | [hitchhiker-r60.zip] |   [final revision] |
 
 [hitchhiker-beta1-r108-s840809.z3]: https://eblong.com/infocom/gamefiles/hitchhiker-beta1-r108-s840809.z3
 
